@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Sofar Local",
+        "description": "Połączenie bezpośrednie z loggerem Sofar TCP 8899.",
+        "data": {
+          "host": "Adres IP",
+          "port": "Port",
+          "logger_serial": "Numer seryjny loggera",
+          "scan_interval": "Interwał odczytu"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Nie można połączyć się z falownikiem.",
+      "unknown": "Nieznany błąd."
+    }
+  }
+}

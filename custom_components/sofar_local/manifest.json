@@ -1,0 +1,12 @@
+{
+  "domain": "sofar_local",
+  "name": "Fotowoltaika",
+  "codeowners": ["@VoyteckPL"],
+  "config_flow": true,
+  "documentation": "https://github.com/VoyteckPL/ha-sofar-local",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/VoyteckPL/ha-sofar-local/issues",
+  "requirements": [],
+  "version": "0.2.0"
+}
